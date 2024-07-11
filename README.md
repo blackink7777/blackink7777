@@ -1,8 +1,8 @@
 ## About Me 
-Hello everyone! I'm Shiina Haruto (椎名晴翔). Btw this is my Japanese name, but it is not my real name.
+👋 Hello everyone! I'm Shiina Haruto (椎名晴翔). Btw this is my Japanese name, but it is not my real name.
 
 ## About Myself
-I am a passionate developer who loves programming, enjoys challenging myself, and continuously learning new technologies. The programming languages ​​I know include but are not limited to:
+💻 I am a passionate developer who loves programming, enjoys challenging myself, and continuously learning new technologies. The programming languages ​​I know include but are not limited to:
 
 - Node.js
 - TypeScript/JavaScript
@@ -14,7 +14,7 @@ I might be a madman for using WebSocket to build server APIs.
 
 ## My Projects
 
-I have participated in or led various projects, including:
+💾 I have participated in or led various projects, including:
 
 - [nekoHaru](https://harutoo.com) - I am currently working on an all-in-one Discord bot aimed at making it easier for administrators to manage their Discord communities.
 - [HarutoStudio](https://github.com/HarutoStudio) - Establishing HarutoStudio, where I work on various software development projects.
