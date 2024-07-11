@@ -4,10 +4,10 @@ Hello everyone! I'm Shiina Haruto (椎名晴翔). Btw this is my Japanese name, 
 ## About Myself
 I am a passionate developer who loves programming, enjoys challenging myself, and continuously learning new technologies. My areas of expertise include, but are not limited to:
 
-- Backend development
-- Frontend development
-- Full-stack development
-- Using WebSocket to build server APIs (?
+- Node.js
+- TypeScript/JavaScript
+- Python
+- Java
 
 I might be a madman for using WebSocket to build server APIs.
 
