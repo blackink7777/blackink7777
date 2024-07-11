@@ -2,12 +2,13 @@
 Hello everyone! I'm Shiina Haruto (椎名晴翔). Btw this is my Japanese name, but it is not my real name.
 
 ## About Myself
-I am a passionate developer who loves programming, enjoys challenging myself, and continuously learning new technologies. My areas of expertise include, but are not limited to:
+I am a passionate developer who loves programming, enjoys challenging myself, and continuously learning new technologies. The programming languages ​​I know include but are not limited to:
 
 - Node.js
 - TypeScript/JavaScript
 - Python
 - Java
+- Using WebSocket to build server APIs (?
 
 I might be a madman for using WebSocket to build server APIs.
 
