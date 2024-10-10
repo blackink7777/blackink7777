@@ -1,28 +1,28 @@
-## About Me
+## About Me  
 👋 Hello everyone! I'm Shiina Haruto (椎名晴翔). Btw this is my Japanese name, but it is not my real name.
 
-## My Skills
-💻  I am a passionate developer who loves programming, enjoys challenging myself, and continuously learning new technologies. I work with:
+## My Skills  
+💻 I'm a developer who loves programming, enjoys challenging myself, and continuously learning new technologies. I’m proficient in the following areas:
 
-- Node.js
-- TypeScript/JavaScript
-- Python
+- JavaScript/TypeScript (my primary focus)
 - Java
-- WebSocket for server APIs 
+- Python
+- Full-stack development
+- mistakenly treating WebSocket as a RESTful API
 
-I might be a madman for using WebSocket to build server APIs.
+I might be a fool for treating WebSocket like a RESTful API. (laugh)
 
-## Projects
-💾 Here are some of my key projects:
+## Projects  
+💾 Here are some of my main projects:
 
-- [nekoHaru](https://harutoo.com) - I am currently working on an all-in-one Discord bot aimed at making it easier for administrators to manage their Discord communities.
+- [nekoHaru](https://harutoo.com) - I’m currently developing an all-in-one Discord bot designed to make it easier for administrators to manage their Discord communities.
 - [HarutoStudio](https://github.com/HarutoStudio) - Establishing HarutoStudio, where I work on various software development projects.
 
-## Contact
-🐶 I'm dedicated to creating efficient, reliable, and scalable applications, and I love researching algorithms.
+## Contact  
+🐶 I'm dedicated to creating efficient, reliable, and scalable applications, and I’m passionate about researching algorithms.
 
-- Email: blackink@harutoo.com
-- Discord: @blackink7777
+- Email: blackink@harutoo.com  
+- Discord: @blackink7777  
 - LinkedIn: [in/blackink7777](https://www.linkedin.com/in/blackink7777/)
 
 Thank you for your interest!
